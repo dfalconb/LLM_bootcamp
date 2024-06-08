@@ -13,3 +13,9 @@ El **Bootcamp IA + Desarrollo LLM Apps** es un programa integral que combina teo
 - Utilizar herramientas y tecnologías de vanguardia como Python, LangChain, LlamaIndex, OpenAI API, FastAPI, y más.
 
 Para más información sobre el programa, visita la [página oficial del Bootcamp](https://aceleradora.ai).
+
+
+
+Enlaces de documentación:
+ - [Langchain](https://python.langchain.com/v0.2/docs/introduction/)
+ - [OpenAI](https://openai.com/index/openai-api/)
