@@ -19,3 +19,4 @@ Para más información sobre el programa, visita la [página oficial del Bootcam
 Enlaces de documentación:
  - [Langchain](https://python.langchain.com/v0.2/docs/introduction/)
  - [OpenAI](https://openai.com/index/openai-api/)
+ - [LlamaIndex](https://docs.llamaindex.ai/en/stable/)
